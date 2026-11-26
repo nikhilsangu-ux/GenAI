@@ -1,0 +1,7 @@
+﻿Prompt,Temperature,Rank,Token ID,Candidate Token,Raw Logit,Scaled Logit,Probability (%)
+Who is Sandeep Reddy Vanga?,2.0,1,198,'\n',-81.9784,-40.9892,1.36
+Who is Sandeep Reddy Vanga?,2.0,2,1867,' What',-84.7892,-42.3946,0.33
+Who is Sandeep Reddy Vanga?,2.0,3,4162,' Why',-84.8127,-42.4063,0.33
+Who is Sandeep Reddy Vanga?,2.0,4,679,' He',-85.0757,-42.5378,0.29
+Who is Sandeep Reddy Vanga?,2.0,5,843,' And',-85.0869,-42.5434,0.29
+Who is Sandeep Reddy Vanga?,2.0,6,1374,' How',-85.2462,-42.6231,0.27
